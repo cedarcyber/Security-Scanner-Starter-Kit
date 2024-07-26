@@ -4,8 +4,9 @@ Welcome to my small and growing list of mostly-free security scanners and tools 
 
 ## Starter Pack
 
-### URL and Domain Scanners
+### URL, Domain, and IP Scanners
 - **[Cloudflare Radar](https://radar.cloudflare.com/scan)**: Perform comprehensive scans and gather intelligence about internet properties.
+- **[Shodan](https://www.shodan.io/)**: Discover devices connected to the internet and gather intelligence about them.
 - **[Tiny-Scan](https://www.tiny-scan.com/)**: A powerful tool for scanning and gathering information about IP addresses and domains.
 - **[Pulsedive](https://pulsedive.com/explore/)**: Explore and investigate threat intelligence data.
 - **[URLVoid](https://www.urlvoid.com/)**: Check the reputation and safety of websites.
@@ -19,16 +20,9 @@ Welcome to my small and growing list of mostly-free security scanners and tools 
 ### Browser Extension Security
 - **[CRXcavator](https://crxcavator.io/)**: Analyze the security of browser extensions and ensure they are safe to use.
 
-### Network Scanners
-- **[Shodan](https://www.shodan.io/)**: Discover devices connected to the internet and gather intelligence about them.
-
 ### CSP Evaluator
 - **[CSP Evaluator](https://csp-evaluator.withgoogle.com/)**: Evaluate the effectiveness of your Content Security Policy.
 
 ## Contributing
 
 Contributions are welcome! If you have a favorite security tool that you think should be included in this list, please feel free to open an issue or submit a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
