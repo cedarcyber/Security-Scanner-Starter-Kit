@@ -1,4 +1,4 @@
-# Security & IT Scanner Starter Kit
+# Security (& IT) Scanner Starter Kit
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/0aAZ47l.jpeg" alt="Lego Security Engineer Produced by AI" width="20%" />
