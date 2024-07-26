@@ -1,8 +1,8 @@
-# Security & IT Tool Starter Pack
+# Security & IT Scanner Starter Kit
 
-A small but growing list of mostly-free security scanners and tools that come in handy in the course of an incident investigation, tool assessment, or troubleshooting a configuration. These are the tools I like to have in my back pocket and the purpose of this repo is mostly for me to have easy reference to these tools as time goes on.
+Welcome to my small and growing list of mostly-free security scanners and tools that have personally come in handy in the course of an incident investigation, tool assessment, or troubleshooting a configuration. These are the tools I like to have in my back pocket and the purpose of this repo is mostly for me to have easy reference to these tools as time goes on since I don't trust browser bookmarks.
 
-## Security Tool Starter Pack
+## Starter Pack
 
 ### URL and Domain Scanners
 - **[Cloudflare Radar](https://radar.cloudflare.com/scan)**: Perform comprehensive scans and gather intelligence about internet properties.
