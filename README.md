@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/0aAZ47l.jpeg" alt="Lego Security Engineer Produced by AI" width="20%" />
 </div>
 
-Welcome to my small and growing list of mostly-free security scanners and toolz that have personally come in handy in the course of an incident investigations, assessments, and vigorous troubleshooting a configuration. These are the tools I like to have in my back pocket and the purpose of this repo is mostly for me to have easy reference to these tools as time goes on since I don't trust browser bookmarks.
+Welcome to my small and growing list of mostly-free security scanners and toolz that have personally come in handy in the course of an incident investigations, assessments, and vigorous troubleshooting a configuration. These are the tools I like to have in my back pocket and the purpose of this repo is mostly for me to have easy reference to these tools as time goes on since I don't trust browser bookmarks. There are certainly other listings for the elite hackers and OSINT wizards of the world but this "starter pack" will hopefully be of use to the average security engineer/analyst/consultant.
 
 *Many of these tools have paid versions or APIs to use more advanced features but the freemium options are great places to start.*
 
