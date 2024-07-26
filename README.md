@@ -36,6 +36,9 @@ Welcome to my small and growing list of mostly-free security scanners and toolz 
 - **[Wappalyzer](https://www.wappalyzer.com/lookup/)**: Identify technologies on websites such as content management systems, ecommerce platforms, web frameworks, server software, and analytics tools. Also in a [chrome addon](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhag
 - **[CSP Evaluator](https://csp-evaluator.withgoogle.com/)**: Google tool to evaluate the effectiveness of your Content Security Policy.
 
+### GPTs
+- **[SOC Copilot](https://chatgpt.com/g/g-qvSadylbt-soc-copilot)**: SOC assistant in ChatGPT. Helps analyze data, develop reports, etc.
+
 ## Contributing
 
 Contributions are welcome! If you have a favorite security tool that you think should be included in this list, please feel free to open an issue or submit a pull request.
