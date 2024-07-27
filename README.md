@@ -18,6 +18,7 @@ Welcome to my small and growing list of mostly-free security scanners and toolz 
 - **[URLVoid](https://www.urlvoid.com/)**: Check the reputation and safety of websites. Great free API
 - **[VirusTotal](https://www.virustotal.com/gui/home/url)**: Analyze URLs and domains to detect malicious content.
 - **[IPinfo](https://ipinfo.io/)**: Trusted source for IP info
+- **[Browserling](https://www.browserling.com/)**: Browser sandbox. Great for testing sketchy links and seeing where they lead
 
 ### Configuration Scanners
 - **[Mozilla Observatory](https://developer.mozilla.org/en-US/observatory)**: Scan your site for security vulnerabilities and best practices.
@@ -32,7 +33,7 @@ Welcome to my small and growing list of mostly-free security scanners and toolz 
 - **[ExtensionTotal](https://www.extensiontotal.com/)**: Tool to assess the risk of VSCode extensions, navigate the extension jungle, and detect malicious, risky or vulnerable extensions.
 
 ### Browsers and Webpages
-- **[Browserling](https://www.browserling.com/)**: Live interactive cross-browser testing in your browser.
+- **[Browserling](https://www.browserling.com/)**: Live interactive cross-browser testing in your browser (so nice, mentioned it twice)
 - **[Wappalyzer](https://www.wappalyzer.com/lookup/)**: Identify technologies on websites such as content management systems, ecommerce platforms, web frameworks, server software, and analytics tools. Also in a [chrome addon](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhag
 - **[CSP Evaluator](https://csp-evaluator.withgoogle.com/)**: Google tool to evaluate the effectiveness of your Content Security Policy.
 
