@@ -19,6 +19,7 @@ Welcome to my small and growing list of mostly-free security scanners and toolz 
 - **[VirusTotal](https://www.virustotal.com/gui/home/url)**: Analyze URLs and domains to detect malicious content.
 - **[IPinfo](https://ipinfo.io/)**: Trusted source for IP info
 - **[Browserling](https://www.browserling.com/)**: Browser sandbox. Great for testing sketchy links and seeing where they lead
+- **[ICANN Lookup](https://lookup.icann.org/whois/en?q=msidentity.com&t=a)**: Registration details for domains/IPs
 
 ### Configuration Scanners
 - **[Mozilla Observatory](https://developer.mozilla.org/en-US/observatory)**: Scan your site for security vulnerabilities and best practices.
