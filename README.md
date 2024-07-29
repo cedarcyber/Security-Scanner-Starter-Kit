@@ -28,6 +28,7 @@ Welcome to my small and growing list of mostly-free security scanners and toolz 
 
 ### Emails
 - **[Mozilla Monitor](https://monitor.mozilla.org/)**: Scan to see if your phone number, passwords or home address have been leaked
+- **[TEMPMAIL](https://temp-mail.org/en/)**: Create a burner email to avoid spam
 
 ### Extensions & Addons
 - **[CRXcavator](https://crxcavator.io/)**: Analyze the security of browser extensions and ensure they are safe to use.
