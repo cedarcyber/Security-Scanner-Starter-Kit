@@ -45,7 +45,6 @@ Welcome to my small and growing list of mostly-free security scanners and toolz 
 ### Detection as Code
 - **[Rex - Rule Explorer](https://rulexplorer.io/)**: collection of open source detection rules (e.g., sigma rules)
 - **[Sigma Rules](https://github.com/SigmaHQ/sigma)**: collection of open source detection rules (e.g., sigma rules)
-- 
 
 ## Contributing
 
