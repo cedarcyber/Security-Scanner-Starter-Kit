@@ -42,6 +42,11 @@ Welcome to my small and growing list of mostly-free security scanners and toolz 
 ### GPTs
 - **[SOC Copilot](https://chatgpt.com/g/g-qvSadylbt-soc-copilot)**: SOC assistant in ChatGPT. Helps analyze data, develop reports, etc.
 
+### Detection as Code
+- **[Rex - Rule Explorer](https://rulexplorer.io/)**: collection of open source detection rules (e.g., sigma rules)
+- **[Sigma Rules](https://github.com/SigmaHQ/sigma)**: collection of open source detection rules (e.g., sigma rules)
+- 
+
 ## Contributing
 
 Contributions are welcome! If you have a favorite security tool that you think should be included in this list, please feel free to open an issue or submit a pull request.
